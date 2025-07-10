@@ -1,0 +1,11 @@
+{
+  "name": "@arhis77/randomnumber",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "random": "node index.js"
+  },
+  "author": "Alexey Arkhipenko",
+  "license": "ISC",
+  "description": ""
+}
