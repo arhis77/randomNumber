@@ -7,5 +7,10 @@
   },
   "author": "Alexey Arkhipenko",
   "license": "ISC",
-  "description": ""
+  "description": "Generate random numbers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arhis77/randomNumber.git"
+  }
+
 }
